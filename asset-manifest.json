@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-IMCCalculator/static/css/main.9ed21c13.css",
+    "main.js": "/React-IMCCalculator/static/js/main.bd1d38e7.js",
+    "static/js/787.0465696c.chunk.js": "/React-IMCCalculator/static/js/787.0465696c.chunk.js",
+    "index.html": "/React-IMCCalculator/index.html",
+    "main.9ed21c13.css.map": "/React-IMCCalculator/static/css/main.9ed21c13.css.map",
+    "main.bd1d38e7.js.map": "/React-IMCCalculator/static/js/main.bd1d38e7.js.map",
+    "787.0465696c.chunk.js.map": "/React-IMCCalculator/static/js/787.0465696c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ed21c13.css",
+    "static/js/main.bd1d38e7.js"
+  ]
+}
